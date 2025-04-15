@@ -1,4 +1,4 @@
-// readme file code
+
 <h1 align="center">Hi 👋, I'm Ved Dandotia</h1>
 <h3 align="center">Web Development & Cybersecurity Enthusiast</h3>
 
