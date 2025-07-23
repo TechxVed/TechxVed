@@ -2,7 +2,7 @@
 <h3 align="center">Web Development & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techxved/techxved/main/assets/YOUR-BANNER-IMAGE.png" alt="Ved Dandotia - Web Development & Cybersecurity Enthusiast" />
+  <img src="https://raw.githubusercontent.com/techxved/techxved/main/assets/YOUR-BANNER-IMAGE.png" alt="techxved"/>
 </p>
 
 <p align="center">
