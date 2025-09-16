@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ved Dandotia</h1>
-<h3 align="center">Web Development & Cybersecurity Enthusiast</h3>
+<h3 align="center">Web3 & Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/techxved/techxved/main/assets/YOUR-BANNER-IMAGE.png" alt="techxved"/>
@@ -13,9 +13,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Web Development** and **Networking**
+- 🌱 I’m currently learning **Web3** and **Networking**
 - 👨‍💻 My projects are available at: [My Linktree](https://linktr.ee/techxved)
-- 💬 Ask me about **HTML, CSS, and C**
+- 💬 Ask me about **HTML, CSS, C & Networking**
 - 📫 Reach me at **vednkps@gmail.com**
 
 ---
