@@ -49,11 +49,3 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techxved&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=techxved&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
